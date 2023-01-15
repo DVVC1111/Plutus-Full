@@ -9,6 +9,7 @@ url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
 body{
 	margin: 0;
 	border: 0;
+    background-image: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
 }
 
 #redeem-body h1{
