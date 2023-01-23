@@ -1,0 +1,40 @@
+[{
+    "id": 1,
+    "title": "all about interests",
+    "type": "Your Courses"
+}
+{
+    "id": 2,
+    "title": "master digital banking with rbh",
+    "type": "Your Courses"
+},
+{
+    "id": 3,
+    "title": "different types of banking",
+    "type": "Popular"
+},
+{
+    "id": 4,
+    "title": "how to manage your allowance?",
+    "type": "Recommendation"
+},
+{
+    "id": 5,
+    "title": "financial tips from rbh",
+    "type": "Recommendation"
+},
+{
+    "id": 6,
+    "title": "understand about financial risks",
+    "type": "Popular"
+},
+{
+    "id": 7,
+    "title": "how to set financial targets?",
+    "type": "Recommendation"
+},
+{
+    "id": 8,
+    "title": "what you should know about financial literacy?",
+    "type": "Popular"
+}]
