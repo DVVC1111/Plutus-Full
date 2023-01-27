@@ -221,6 +221,39 @@ a{
 	}
 }
 
+@media (max-width:576px) {
+	.referral_wrap h1{
+		font-size: 1.6rem;
+	}
+	.referral_text p{
+		font-size: 1rem;
+	}
+	.referral_link .share{
+		border: none;
+		border-radius: 5px;
+		padding: 2px;
+	}
+	.referral_link .share img{
+		height: 3vh;
+	}
+	.referral_link .copy_link_2{
+		padding-left: 6px;
+		padding-right: 6px;
+		padding-top: 2px;
+		padding-bottom: 2px;
+		border-radius: 5px;	
+		margin-right: 3px;
+		
+		/* background-color: transparent;	 */
+	}
+	
+
+
+}
+
+
+
+
 
 
 
