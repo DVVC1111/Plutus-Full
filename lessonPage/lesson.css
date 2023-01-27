@@ -112,7 +112,7 @@ a{
     flex-direction: row;
     height: 7vh;
     align-items: center;
-    margin-left: 7.8%;
+    margin-left: 7.7%;
     width: 41%;
     margin-bottom: 5vh;
     /* background-color: red; */
@@ -122,6 +122,29 @@ a{
     margin: 0;
     width: 21vw;
     margin-right: 7vw;
+}
+.search_wrap .search_course input::placeholder{
+    font-size: 1rem;
+}
+
+@media (max-width:570px){
+    .search_wrap .search_course{
+        width: 28vw; 
+        height: 4vh;
+    }
+    .search_wrap .search_course input::placeholder{
+        font-size: .8rem;
+    }
+    .search_wrap .dropdown{
+        width: 19vw;
+    }
+    .search_wrap .dropdown {
+        font-size: .9rem;
+    }
+    .search_wrap{
+        margin-bottom: 2vh;
+    }
+    
 }
 /* Search Wrap End */
 
@@ -221,6 +244,46 @@ a{
 	font-size: .8rem;
 	letter-spacing: 1px;
     text-decoration: none;
+}
+
+@media (max-width:570px){
+    .courseCard .course .course-preview h6{
+        font-size: .5rem;
+        margin-bottom: 3vh;
+    } 
+    .courseCard .course .course-preview h2{
+        font-size: 1rem;
+    }
+    .courseCard{
+        margin-right: 1vw;
+        width: 93.5vw !important;
+        
+    }
+    .description-text{
+        margin-bottom: 8vh;
+    }
+    .course-info h6{
+        margin-bottom: 2vh;
+    }
+    .reward{
+        width: 20vw;
+        /* margin-right: 20vw; */
+        height: 3vh;
+        border-radius: 15px;
+    }
+    .reward p{
+        font-size: .55rem;
+    }
+    .reward img{
+        width: 4vw;
+    }
+    .course-info .button{
+        width: 20vw;
+        height: 3vh;
+        font-size: .55rem;
+    }
+    
+
 }
 /* Course Grid End */
 
